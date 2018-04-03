@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525765428793",
+    "firebase_url": "https://flutterredux.firebaseio.com",
+    "project_id": "flutterredux",
+    "storage_bucket": "flutterredux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525765428793:android:e8dc1750808e8457",
+        "android_client_info": {
+          "package_name": "com.example.flutterredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525765428793-7qn8rec0dbcma03jcr6ed5noof5jvjgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14xAMZja84uSf05_kyiKODlpFSbtVzrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
