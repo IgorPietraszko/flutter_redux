@@ -10,7 +10,7 @@ dependencies:
   cupertino_icons: ^0.1.0
   redux: "^2.1.1"
   flutter_redux: "^0.3.5"
-  cloud_firestore: "^0.3.2"
+  cloud_firestore: "^0.2.9"
 
 dev_dependencies:
   flutter_test:
